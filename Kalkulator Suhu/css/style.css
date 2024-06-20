@@ -1,0 +1,53 @@
+/* ini css */
+
+.celcius-container {
+  text-align: left;
+}
+
+.results-container {
+  justify-content: space-evenly;
+}
+
+textarea {
+  resize: none;
+  background-color: #f8f8f8;
+  border: 2px solid #ccc;
+  border-radius: 14px;
+  font-family: math;
+  font-size: 24px;
+}
+
+.button {
+  border: 2px;
+  border-radius: 8px;
+  font-size: 20px;
+  padding: 10px 15px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.green-color {
+  background-color: chartreuse;
+  color: rgb(0, 0, 0);
+}
+
+.red-color {
+  background-color: rgb(255, 96, 128);
+  color: rgb(0, 0, 0);
+}
+
+.blue-color {
+  background-color: rgb(134, 134, 255);
+  color: rgb(0, 0, 0);
+}
+
+.subject-info {
+  font-size: 24px;
+  font-style: italic;
+  font-family: math;
+}
+
+.subject2-info {
+  font-size: 24px;
+  font-family: math;
+}
